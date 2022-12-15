@@ -1,1 +1,1 @@
-Hello I'm Chinthaka Dinadasa, the main writer for javatodev.com
+Source Codes For https://javatodev.com/ original author account @chinthaka-dinadasa
